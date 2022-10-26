@@ -2,33 +2,27 @@
     "routes":[
       {
         "id": 1,
-        "route": [57.9873,15.4519,58.7822,34.6782],
-        "name":"Walking in the sky",
-        "length": 950,
-        "description":"Route in the center of the city",
-        "type": "walking",
-        "image_url":"https://images.unsplash.com/photo-1529154036614-a60975f5c760?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1176&q=80",
-        "best_lap": [1661126400000, 786]
+        "name":"The way to big Nestle corporation'",
+        "length": 1850,
+        "description":"Somewhere in Szwajcaria",
+        "type": "na czworaka",
+        "image_url":"https://www.bazabiur.pl/media/gallery/nestle-house/biuro-nestle-house_30.jpg",
       },
      {
         "id": 2,
-        "route": [50.9873,15.4519,50.7822,15.9801],
-        "name":"Bicycle drive",
-        "length": 1950,
-        "description":"Inside forest",
-        "type": "bicycle",
-        "image_url":"https://images.unsplash.com/photo-1660296396747-ef97d067066d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
-        "best_lap": [1660094578000, 786]
+        "name":"Nigeria",
+        "length": 4950,
+        "description":"Do siedziby malych czarnych dzieci",
+        "type": "Luksusowe auto",
+        "image_url":"https://ocdn.eu/images/pulscms/Mzk7MDA_/4a10f84f608f7ff1f3292ba7da73a6e7.jpg",
       },
      {
         "id": 3,
-        "route": [50.0,15.9,50.009,15.85],
         "name":"Mountain view",
         "length": 5500,
         "description":"Lovely road in mountain and forest. You are going throught two rivers and one lake.",
         "type": "walking",
         "image_url":"https://images.unsplash.com/photo-1660343280340-43842c6387fc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
-        "best_lap": [1660000578999, 786]
       }
      ],
      
